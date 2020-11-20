@@ -281,6 +281,17 @@
     padding: 20px;
 }
 
+.errorLabel
+{
+    font-size: 0.9em;
+}
+
+
+.fieldDiv
+{
+    padding-bottom: 15px;
+}
+
 #aboutLeft
 {
     top: 6%;
@@ -346,10 +357,11 @@
     background-color: #cffff7;
 }
 
-#fieldDiv
+#passStrLabel
 {
-    padding-bottom: 15px;
+    text-align: right;
 }
+
 
 
 
