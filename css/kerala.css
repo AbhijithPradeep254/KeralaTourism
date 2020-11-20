@@ -12,7 +12,7 @@
 
 .loginBody
 {
-    background-image: url("/backgrounds/kathakali_edited.jpg");
+    background-image: url("../backgrounds/kathakali_edited.jpg");
     background-size: cover;
     background-color:#cffff7;
     height: auto;
@@ -21,7 +21,7 @@
 
 .distBody
 {
-    background-image: url("/backgrounds/india-kerala-149251808216o.jpeg");
+    background-image: url("../backgrounds/india-kerala-149251808216o.jpeg");
     background-size: cover;
     background-color:#cffff7;
     height: auto;
