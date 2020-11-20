@@ -69,7 +69,7 @@ function validPass()
     }
     else
     {
-        passError.innerHTML = "Password must contain at least one uppercase, lowercase character and number";
+        passError.innerHTML = "Password must contain a minimum of 8 characters with at least one uppercase, lowercase character and number";
         inputPass.style.border = "red 1px solid";
         return false;
     }
